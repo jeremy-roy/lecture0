@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family:arial, san-serif;
+}
+h2 {
+	color: grey;
+	text-align: center;
+	font-family:arial, san-serif;
+	font-weight:normal;
+}
+#top {
+	background-color: teal;
+	height: 100px;
+	padding: 10px;
+	border: 10px solid black;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+	margin: 5px;
+	width: 250px;
+}
+.name {
+	color: black;
+}
