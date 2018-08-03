@@ -4,16 +4,15 @@ body {
 	font-family:arial, san-serif;
 }
 h2 {
-	color: grey;
+	color: #797D7F;
 	text-align: center;
 	font-family:arial, san-serif;
 	font-weight:normal;
 }
 #top {
-	background-color: teal;
+	background-color: #AEB6BF;
 	height: 100px;
 	padding: 10px;
-	border: 10px solid black;
 }
 
 table, th, td {
@@ -24,5 +23,5 @@ table, th, td {
 	width: 250px;
 }
 .name {
-	color: black;
+	color: #D0D3D4;
 }
